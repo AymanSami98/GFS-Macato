@@ -7,7 +7,12 @@ Macato allows users to hire a personal chef to come and cook for them at home in
 
 
 ### **My Tasks**
-- [ ] This is a task example
+- [x] This is a task example
+- [x] Create a new project on Github.
+- [x] Break down the project into 2-3 phases.
+- [x] Convert the above requirements into user stories for the App.
+- [x] Create a user flow chart.
+- [x] Create a user journey, this could be displayed as a simple table.
 
 
 ## **User Stories**
@@ -20,7 +25,7 @@ Macato allows users to hire a personal chef to come and cook for them at home in
 
 
 
-### **Chef** :female-cook: : 
+### **Chef** :woman_cook: : 
    #### As an Chef, I can : 
 - _As a ` Chef `_  I can .
 
@@ -28,7 +33,9 @@ Macato allows users to hire a personal chef to come and cook for them at home in
 
 ## **User Journey**  :black_nib:
 
-## **user flow chart** :bar_chart: 
+## **User Flow Chart** :bar_chart: 
+![](https://i.imgur.com/oNyCRRE.png)
+
 
 ## **Technologies** :computer:
 
