@@ -22,7 +22,7 @@ Macato allows users to hire a personal chef to come and cook for them at home in
    #### As a Customer, I Want : 
  - _As a ` Customer `_ I want to create an account and log in.
 - _As a ` Customer `_ I want to choose a menu.
-- _As a ` Customer `_ I want to submit booking details (my Email, dates, address, number of guests, etc.).
+- _As a ` Customer `_ I want to submit booking details (dates, address, number of guests, etc.).
 - _As a ` Customer `_  I want to receive an email containing the following steps and instructions.
 - _As a ` Customer `_ I want to check the cooking equipment and ingredients required.
 - _As a ` Customer `_  I want to check the type of food.
