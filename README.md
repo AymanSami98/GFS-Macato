@@ -27,17 +27,18 @@ Macato allows users to hire a personal chef to come and cook for them at home in
 - _As a ` Customer `_ I want to check the cooking equipment and ingredients required.
 - _As a ` Customer `_  I want to check the type of food.
 - _As a ` Customer `_  I want to Link to the guest invitation to send it to my guests.
+- _As a ` Customer `_ I want to see the chef's profile.
+- _As a ` Customer `_ I want to see the chef's availability.
+- _As a ` Customer `_ I want to see the chef's reviews.
+- _As a ` Customer `_ I want to see the chef's menu.
+- _As a ` Customer `_ I want to see the chef's contact details.
 - _As a ` Customer `_  I want to know a chef's arrival and departure time.
 - _As a ` Customer `_ I want to get special offers and discounts.
 - _As a ` Customer `_ I want to submit feadback .
 - _As a ` Customer `_ I want to receive feadback.
 - _As a ` Customer `_  I want to choose the chef's gender.
 - _As a ` Customer `_  I want to pay in google pay or apple pay or in person.
-- _As a ` Customer `_ I want to see the chef's profile.
-- _As a ` Customer `_ I want to see the chef's availability.
-- _As a ` Customer `_ I want to see the chef's reviews.
-- _As a ` Customer `_ I want to see the chef's menu.
-- _As a ` Customer `_ I want to see the chef's contact details.
+
 
 
 
