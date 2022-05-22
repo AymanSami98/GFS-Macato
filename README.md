@@ -73,7 +73,9 @@ Macato allows users to hire a personal chef to come and cook for them at home in
 ***
 ### **Chef who want to get hired** : 
 ![](https://i.imgur.com/RC2jMxK.png)
-
+#### After you create an account or access your existing account, you can view all your new orders and approve or reject them. 
+#### If the order is accepted, you will be able to send an email with all the information and cooking ingredients you need to the customer, in addition to the time of your arrival and departure.
+#### After completing the order, you can add a feedback to the customer and see his feedback for you
 ## **User Flow Chart** :bar_chart: 
 ![](https://i.imgur.com/oNyCRRE.png)
 
