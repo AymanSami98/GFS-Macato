@@ -70,6 +70,9 @@ Macato allows users to hire a personal chef to come and cook for them at home in
 #### After logging in, you can go and browse the site again, or you can browse your old orders, and you can also make a new order, when you choose one of the chefs, you can go to their page and read all the details about them and see their ratings and available times in addition to their gender after this you can book an reservation, the site will ask you to enter more details about you such as your contact information in addition to information about dates, number of guests, etc.
 #### When you complete the reservation, you will go to the payment page where you can choose to pay in person or you can pay through Google Pay or Apple Pay, and after this you will receive an email from the chef containing all the ingredients that you need to buy before he comes to you, and the arrival and departure times.
 #### After this, you can add an feedback on the chef's page and see the chef's feedback of your dealings with him.
+***
+### **Chef who want to get hired** : 
+![](https://i.imgur.com/RC2jMxK.png)
 
 ## **User Flow Chart** :bar_chart: 
 ![](https://i.imgur.com/oNyCRRE.png)
