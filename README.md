@@ -9,7 +9,7 @@ Macato allows users to hire a personal chef to come and cook for them at home in
 ### **My Tasks**
 - [x] Create a new project on Github.
 - [x] Break down the project into 2-3 phases.
-- [x] Convert the above requirements into user stories for the App.
+- [x] Convert the requirements into user stories for the App.
 - [x] Create a user flow chart.
 - [x] Create a user journey.
 
