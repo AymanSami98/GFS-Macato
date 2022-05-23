@@ -7,12 +7,11 @@ Macato allows users to hire a personal chef to come and cook for them at home in
 
 
 ### **My Tasks**
-- [x] This is a task example
 - [x] Create a new project on Github.
 - [x] Break down the project into 2-3 phases.
 - [x] Convert the above requirements into user stories for the App.
 - [x] Create a user flow chart.
-- [x] Create a user journey, this could be displayed as a simple table.
+- [x] Create a user journey.
 
 
 ## **User Stories**
@@ -67,9 +66,9 @@ Macato allows users to hire a personal chef to come and cook for them at home in
 
 #### Once you open the site, you will find a landing page at the beginning, through which you can go to the various sections of the site, where you can browse the menu we have and you can browse the list of chefs on the site.
 #### If you do not have an account, you can create a new account via email or phone number. If you already have an account, you can enter the site via your email and password directly.
-#### After logging in, you can go and browse the site again, or you can browse your old orders, and you can also make a new order, when you choose one of the chefs, you can go to their page and read all the details about them and see their ratings and available times in addition to their gender after this you can book an reservation, the site will ask you to enter more details about you such as your contact information in addition to information about dates, number of guests, etc.
+#### After logging in, you can go and browse the site again, or you can browse your old orders, and you can also make a new order, when you choose one of the chefs, you can go to their page and read all the details about them and see their ratings and available times in addition to their gender after this you can book a reservation, then the site will ask you to enter more details about you such as your contact information in addition to information about dates, number of guests, etc.
 #### When you complete the reservation, you will go to the payment page where you can choose to pay in person or you can pay through Google Pay or Apple Pay, and after this you will receive an email from the chef containing all the ingredients that you need to buy before he comes to you, and the arrival and departure times.
-#### After this, you can add an feedback on the chef's page and see the chef's feedback of your dealings with him.
+#### After this, you can add a feedback on the chef's page and see the chef's feedback of your dealings with him.
 ***
 ### **Chef who want to get hired** : 
 ![](https://i.imgur.com/RC2jMxK.png)
